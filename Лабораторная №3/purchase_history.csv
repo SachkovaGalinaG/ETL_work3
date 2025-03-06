@@ -1,0 +1,26 @@
+purchase_id,supplier_id,product,quantity,purchase_date,total_amount,status
+1,1,Product A,10,2025-03-01,1000.00,Completed
+2,2,Product B,5,2025-03-05,750.00,Completed
+3,3,Product C,20,2025-03-10,4000.00,In Progress
+4,4,Product D,15,2025-03-12,1800.00,Completed
+5,5,Product E,25,2025-03-15,3250.00,Completed
+6,6,Product F,12,2025-03-12,1080.00,Canceled
+7,7,Product G,18,2025-03-18,3780.00,Completed
+8,8,Product H,10,2025-03-20,1800.00,In Progress
+9,9,Product I,4,2025-03-22,640.00,Completed
+10,10,Product J,6,2025-03-13,1020.00,Completed
+11,11,Product K,8,2025-03-14,1120.00,Completed
+12,12,Product L,5,2025-03-16,1100.00,In Progress
+13,13,Product M,12,2025-03-17,1296.00,Completed
+14,14,Product N,9,2025-03-19,1710.00,Completed
+15,15,Product O,14,2025-03-20,1540.00,In Progress
+16,16,Product P,16,2025-03-23,2240.00,Completed
+17,17,Product Q,8,2025-03-24,1440.00,Canceled
+18,18,Product R,25,2025-03-25,4500.00,Completed
+19,19,Product S,18,2025-03-21,3600.00,Completed
+20,20,Product T,15,2025-03-26,1680.00,In Progress
+21,21,Product U,11,2025-03-11,1210.00,Completed
+22,22,Product V,7,2025-02-28,1050.00,Completed
+23,23,Product W,4,2025-02-27,1080.00,In Progress
+24,24,Product X,12,2025-03-02,2040.00,Completed
+25,25,Product Y,10,2025-03-03,1500.00,Cancelled
